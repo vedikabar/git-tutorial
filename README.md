@@ -1,1 +1,2 @@
-vedika git tutorial
+vedika git tutorial 
+UChicago Student Resource Guide
